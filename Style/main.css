@@ -49,7 +49,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background:linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50) 100%), url('/Git/DIO/dio-desafio-github/Projeto-Netfilx/img/capa-the-witcher.jpg');
+    background:linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50) 100%), url('img/capa-the-witcher.jpg');
     
     height: 574px;
     background-size:cover;
